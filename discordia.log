@@ -1,0 +1,2009 @@
+2025-06-13 16:00:34 | [INFO]    | Discordia 2.13.0
+2025-06-13 16:00:34 | [INFO]    | Connecting to Discord...
+2025-06-13 16:00:34 | [INFO]    | Authenticated as coolkitty42#8299
+2025-06-13 16:00:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-13 16:00:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 16:00:35 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 16:00:35 | [INFO]    | Shard 0 : Received READY
+2025-06-13 16:00:54 | [INFO]    | Discordia 2.13.0
+2025-06-13 16:00:54 | [INFO]    | Connecting to Discord...
+2025-06-13 16:00:55 | [INFO]    | Authenticated as coolkitty42#8299
+2025-06-13 16:00:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-13 16:00:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 16:00:55 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 16:00:55 | [INFO]    | Shard 0 : Received READY
+2025-06-13 16:01:25 | [INFO]    | Discordia 2.13.0
+2025-06-13 16:01:25 | [INFO]    | Connecting to Discord...
+2025-06-13 16:01:25 | [INFO]    | Authenticated as pianocat#8299
+2025-06-13 16:01:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-13 16:01:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 16:01:26 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 16:01:26 | [INFO]    | Shard 0 : Received READY
+2025-06-13 16:05:28 | [INFO]    | Discordia 2.13.0
+2025-06-13 16:05:28 | [INFO]    | Connecting to Discord...
+2025-06-13 16:05:29 | [INFO]    | Authenticated as pianocat#8299
+2025-06-13 16:05:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-13 16:05:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 16:05:29 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 16:05:29 | [INFO]    | Shard 0 : Received READY
+2025-06-13 16:06:44 | [INFO]    | Discordia 2.13.0
+2025-06-13 16:06:44 | [INFO]    | Connecting to Discord...
+2025-06-13 16:06:45 | [INFO]    | Authenticated as pianocat#8299
+2025-06-13 16:06:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-13 16:06:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 16:06:45 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 16:06:45 | [INFO]    | Shard 0 : Received READY
+2025-06-13 16:09:38 | [INFO]    | Discordia 2.13.0
+2025-06-13 16:09:38 | [INFO]    | Connecting to Discord...
+2025-06-13 16:09:39 | [INFO]    | Authenticated as pianocat#8299
+2025-06-13 16:09:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-13 16:09:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 16:09:39 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 16:09:40 | [INFO]    | Shard 0 : Received READY
+2025-06-13 16:13:53 | [INFO]    | Discordia 2.13.0
+2025-06-13 16:13:53 | [INFO]    | Connecting to Discord...
+2025-06-13 16:13:54 | [INFO]    | Authenticated as pianocat#8299
+2025-06-13 16:13:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-13 16:13:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 16:13:54 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 16:13:55 | [INFO]    | Shard 0 : Received READY
+2025-06-13 16:30:14 | [INFO]    | Shard 0 : Disconnected
+2025-06-13 16:30:14 | [INFO]    | Shard 0 : Reconnecting after 1014 ms...
+2025-06-13 16:30:15 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-13 16:30:15 | [INFO]    | Shard 0 : Reconnecting after 2136 ms...
+2025-06-13 16:30:17 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-13 16:30:17 | [INFO]    | Shard 0 : Reconnecting after 4022 ms...
+2025-06-13 16:30:21 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-13 16:30:21 | [INFO]    | Shard 0 : Reconnecting after 7935 ms...
+2025-06-13 16:30:29 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-13 16:30:29 | [INFO]    | Shard 0 : Reconnecting after 16937 ms...
+2025-06-13 16:30:46 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-13 16:30:46 | [INFO]    | Shard 0 : Reconnecting after 32575 ms...
+2025-06-13 16:31:31 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-13 16:31:31 | [INFO]    | Shard 0 : Reconnecting after 55437 ms...
+2025-06-13 16:32:26 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-13 16:32:26 | [INFO]    | Shard 0 : Reconnecting after 64129 ms...
+2025-06-13 16:33:43 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-13 16:33:43 | [INFO]    | Shard 0 : Reconnecting after 56257 ms...
+2025-06-13 16:34:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 16:34:39 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 16:34:39 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-06-13 16:34:44 | [INFO]    | Shard 0 : Received READY
+2025-06-13 20:20:37 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-13 20:20:37 | [INFO]    | Shard 0 : Disconnected
+2025-06-13 20:20:37 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-13 20:20:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 20:20:38 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 20:20:38 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-13 20:59:12 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-13 20:59:12 | [INFO]    | Shard 0 : Disconnected
+2025-06-13 20:59:12 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-13 20:59:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 20:59:12 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 20:59:12 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-13 21:32:59 | [INFO]    | Shard 0 : Disconnected
+2025-06-13 21:32:59 | [INFO]    | Shard 0 : Reconnecting after 1039 ms...
+2025-06-13 21:33:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 21:33:01 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 21:33:01 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-13 23:01:47 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-13 23:01:47 | [INFO]    | Shard 0 : Disconnected
+2025-06-13 23:01:47 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-13 23:01:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 23:01:47 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 23:01:47 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-13 23:44:02 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-13 23:44:02 | [INFO]    | Shard 0 : Disconnected
+2025-06-13 23:44:02 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-13 23:44:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-13 23:44:02 | [INFO]    | Shard 0 : Received HELLO
+2025-06-13 23:44:02 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 00:04:05 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-14 00:04:05 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 00:04:05 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-14 00:04:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 00:04:05 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 00:04:05 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 08:39:09 | [INFO]    | Discordia 2.13.0
+2025-06-14 08:39:09 | [INFO]    | Connecting to Discord...
+2025-06-14 08:39:10 | [INFO]    | Authenticated as pianocat#8299
+2025-06-14 08:39:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-14 08:39:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 08:39:10 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 08:39:11 | [INFO]    | Shard 0 : Received READY
+2025-06-14 09:05:48 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-14 09:05:48 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 09:05:48 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-14 09:05:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 09:05:49 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 09:05:49 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 09:50:21 | [INFO]    | Discordia 2.13.0
+2025-06-14 09:50:21 | [INFO]    | Connecting to Discord...
+2025-06-14 09:50:22 | [INFO]    | Authenticated as pianocat#8299
+2025-06-14 09:50:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-14 09:50:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 09:50:23 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 09:50:23 | [INFO]    | Shard 0 : Received READY
+2025-06-14 10:13:50 | [INFO]    | Discordia 2.13.0
+2025-06-14 10:13:50 | [INFO]    | Connecting to Discord...
+2025-06-14 10:13:51 | [INFO]    | Authenticated as pianocat#8299
+2025-06-14 10:13:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-14 10:13:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 10:13:51 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 10:13:52 | [INFO]    | Shard 0 : Received READY
+2025-06-14 10:17:22 | [INFO]    | Discordia 2.13.0
+2025-06-14 10:17:22 | [INFO]    | Connecting to Discord...
+2025-06-14 10:17:23 | [INFO]    | Authenticated as pianocat#8299
+2025-06-14 10:17:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-14 10:17:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 10:17:23 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 10:17:24 | [INFO]    | Shard 0 : Received READY
+2025-06-14 10:21:13 | [INFO]    | Discordia 2.13.0
+2025-06-14 10:21:13 | [INFO]    | Connecting to Discord...
+2025-06-14 10:21:14 | [INFO]    | Authenticated as pianocat#8299
+2025-06-14 10:21:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-14 10:21:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 10:21:14 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 10:21:14 | [INFO]    | Shard 0 : Received READY
+2025-06-14 10:24:37 | [INFO]    | Discordia 2.13.0
+2025-06-14 10:24:37 | [INFO]    | Connecting to Discord...
+2025-06-14 10:24:37 | [INFO]    | Authenticated as pianocat#8299
+2025-06-14 10:24:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-14 10:24:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 10:24:38 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 10:24:38 | [INFO]    | Shard 0 : Received READY
+2025-06-14 10:37:49 | [INFO]    | Discordia 2.13.0
+2025-06-14 10:37:49 | [INFO]    | Connecting to Discord...
+2025-06-14 10:37:49 | [INFO]    | Authenticated as pianocat#8299
+2025-06-14 10:37:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-14 10:37:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 10:37:49 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 10:37:50 | [INFO]    | Shard 0 : Received READY
+2025-06-14 10:38:34 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1383090068230508544/messages
+2025-06-14 10:50:40 | [INFO]    | Discordia 2.13.0
+2025-06-14 10:50:40 | [INFO]    | Connecting to Discord...
+2025-06-14 10:50:40 | [INFO]    | Authenticated as pianocat#8299
+2025-06-14 10:50:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-14 10:50:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 10:50:41 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 10:50:42 | [INFO]    | Shard 0 : Received READY
+2025-06-14 10:51:24 | [INFO]    | Discordia 2.13.0
+2025-06-14 10:51:24 | [INFO]    | Connecting to Discord...
+2025-06-14 10:51:24 | [INFO]    | Authenticated as pianocat#8299
+2025-06-14 10:51:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-14 10:51:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 10:51:25 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 10:51:25 | [INFO]    | Shard 0 : Received READY
+2025-06-14 10:51:35 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1307114533541773325/messages
+2025-06-14 11:00:59 | [INFO]    | Discordia 2.13.0
+2025-06-14 11:00:59 | [INFO]    | Connecting to Discord...
+2025-06-14 11:00:59 | [INFO]    | Authenticated as pianocat#8299
+2025-06-14 11:00:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-14 11:01:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 11:01:00 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 11:01:00 | [INFO]    | Shard 0 : Received READY
+2025-06-14 11:01:21 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1307114533541773325/messages
+2025-06-14 13:25:04 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 13:25:04 | [INFO]    | Shard 0 : Reconnecting after 1009 ms...
+2025-06-14 13:25:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 13:25:08 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 13:25:09 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 13:28:17 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 13:28:17 | [INFO]    | Shard 0 : Reconnecting after 982 ms...
+2025-06-14 13:28:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 13:28:18 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 13:28:18 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 14:40:55 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 14:40:55 | [INFO]    | Shard 0 : Reconnecting after 973 ms...
+2025-06-14 14:40:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 14:40:57 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 14:40:57 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 15:30:28 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 15:30:28 | [INFO]    | Shard 0 : Reconnecting after 985 ms...
+2025-06-14 15:30:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 15:30:29 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 15:30:29 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 16:13:36 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 16:13:36 | [INFO]    | Shard 0 : Reconnecting after 1050 ms...
+2025-06-14 16:13:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 16:13:38 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 16:13:38 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 16:17:25 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 16:17:25 | [INFO]    | Shard 0 : Reconnecting after 978 ms...
+2025-06-14 16:17:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 16:17:26 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 16:17:26 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 17:25:30 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-14 17:25:30 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 17:25:30 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-14 17:25:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 17:25:31 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 17:25:31 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 18:17:19 | [WARNING] | Shard 0 : 1000 - Connection closed
+2025-06-14 18:17:19 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 18:17:19 | [INFO]    | Shard 0 : Reconnecting after 1041 ms...
+2025-06-14 18:17:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 18:17:20 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 18:17:21 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 22:11:39 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-14 22:11:40 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 22:11:40 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-14 22:11:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 22:11:40 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 22:11:40 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 23:00:08 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-14 23:00:08 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 23:00:08 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-14 23:00:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 23:00:08 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 23:00:08 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 23:16:50 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-14 23:16:50 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 23:16:50 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-14 23:16:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 23:16:50 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 23:16:51 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-14 23:41:43 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-14 23:41:43 | [INFO]    | Shard 0 : Disconnected
+2025-06-14 23:41:43 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-14 23:41:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-14 23:41:43 | [INFO]    | Shard 0 : Received HELLO
+2025-06-14 23:41:43 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-15 00:12:56 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-15 00:12:56 | [INFO]    | Shard 0 : Disconnected
+2025-06-15 00:12:56 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-15 00:12:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 00:12:56 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 00:12:56 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-15 12:09:57 | [INFO]    | Discordia 2.13.0
+2025-06-15 12:09:57 | [INFO]    | Connecting to Discord...
+2025-06-15 12:09:58 | [INFO]    | Authenticated as pianocat#8299
+2025-06-15 12:09:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-15 12:09:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 12:09:59 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 12:09:59 | [INFO]    | Shard 0 : Received READY
+2025-06-15 12:11:41 | [INFO]    | Discordia 2.13.0
+2025-06-15 12:11:41 | [INFO]    | Connecting to Discord...
+2025-06-15 12:11:41 | [INFO]    | Authenticated as pianocat#8299
+2025-06-15 12:11:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-15 12:11:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 12:11:42 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 12:11:42 | [INFO]    | Shard 0 : Received READY
+2025-06-15 12:11:53 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1307114533541773325/messages
+2025-06-15 12:11:54 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1307114533541773325/messages
+2025-06-15 12:24:53 | [INFO]    | Discordia 2.13.0
+2025-06-15 12:24:53 | [INFO]    | Connecting to Discord...
+2025-06-15 12:24:54 | [INFO]    | Authenticated as pianocat#8299
+2025-06-15 12:24:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-15 12:24:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 12:24:56 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 12:24:56 | [INFO]    | Shard 0 : Received READY
+2025-06-15 12:26:09 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1307114533541773325/messages
+2025-06-15 12:32:10 | [INFO]    | Shard 0 : Disconnected
+2025-06-15 12:32:10 | [INFO]    | Shard 0 : Reconnecting after 934 ms...
+2025-06-15 12:32:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 12:32:13 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 12:32:13 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-15 12:34:03 | [INFO]    | Shard 0 : Disconnected
+2025-06-15 12:34:03 | [INFO]    | Shard 0 : Reconnecting after 1058 ms...
+2025-06-15 12:34:04 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-15 12:34:04 | [INFO]    | Shard 0 : Reconnecting after 1848 ms...
+2025-06-15 12:34:06 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-15 12:34:06 | [INFO]    | Shard 0 : Reconnecting after 3906 ms...
+2025-06-15 12:34:10 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-15 12:34:10 | [INFO]    | Shard 0 : Reconnecting after 8193 ms...
+2025-06-15 12:34:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 12:34:20 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 12:34:21 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-15 13:57:25 | [INFO]    | Shard 0 : Disconnected
+2025-06-15 13:57:25 | [INFO]    | Shard 0 : Reconnecting after 1041 ms...
+2025-06-15 13:57:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 13:57:27 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 13:57:28 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-15 14:43:13 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-15 14:43:13 | [INFO]    | Shard 0 : Disconnected
+2025-06-15 14:43:13 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-15 14:43:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 14:43:13 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 14:43:14 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-15 14:58:01 | [INFO]    | Shard 0 : Disconnected
+2025-06-15 14:58:01 | [INFO]    | Shard 0 : Reconnecting after 1063 ms...
+2025-06-15 14:58:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 14:58:03 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 14:58:03 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-15 15:50:40 | [INFO]    | Shard 0 : Disconnected
+2025-06-15 15:50:40 | [INFO]    | Shard 0 : Reconnecting after 1046 ms...
+2025-06-15 15:50:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 15:50:41 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 15:50:42 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-15 19:21:10 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-15 19:21:10 | [INFO]    | Shard 0 : Disconnected
+2025-06-15 19:21:10 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-15 19:21:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 19:21:11 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 19:21:11 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-15 19:30:27 | [WARNING] | Shard 0 : 1000 - Connection closed
+2025-06-15 19:30:27 | [INFO]    | Shard 0 : Disconnected
+2025-06-15 19:30:27 | [INFO]    | Shard 0 : Reconnecting after 939 ms...
+2025-06-15 19:30:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 19:30:31 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 19:30:31 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-15 23:10:27 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-15 23:10:27 | [INFO]    | Shard 0 : Disconnected
+2025-06-15 23:10:27 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-15 23:10:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-15 23:10:27 | [INFO]    | Shard 0 : Received HELLO
+2025-06-15 23:10:27 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-16 01:30:02 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-16 01:30:02 | [INFO]    | Shard 0 : Disconnected
+2025-06-16 01:30:02 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-16 01:30:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 01:30:02 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 01:30:03 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-16 12:47:45 | [INFO]    | Discordia 2.13.0
+2025-06-16 12:47:45 | [INFO]    | Connecting to Discord...
+2025-06-16 12:47:46 | [INFO]    | Authenticated as pianocat#8299
+2025-06-16 12:47:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-16 12:47:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 12:47:47 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 12:47:47 | [INFO]    | Shard 0 : Received READY
+2025-06-16 12:57:36 | [INFO]    | Discordia 2.13.0
+2025-06-16 12:57:36 | [INFO]    | Connecting to Discord...
+2025-06-16 12:57:37 | [INFO]    | Authenticated as pianocat#8299
+2025-06-16 12:57:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-16 12:57:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 12:57:37 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 12:57:37 | [INFO]    | Shard 0 : Received READY
+2025-06-16 12:57:49 | [INFO]    | Discordia 2.13.0
+2025-06-16 12:57:49 | [INFO]    | Connecting to Discord...
+2025-06-16 12:57:49 | [INFO]    | Authenticated as pianocat#8299
+2025-06-16 12:57:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-16 12:57:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 12:57:50 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 12:57:50 | [INFO]    | Shard 0 : Received READY
+2025-06-16 13:02:08 | [INFO]    | Discordia 2.13.0
+2025-06-16 13:02:08 | [INFO]    | Connecting to Discord...
+2025-06-16 13:02:09 | [INFO]    | Authenticated as pianocat#8299
+2025-06-16 13:02:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-16 13:02:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 13:02:09 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 13:02:09 | [INFO]    | Shard 0 : Received READY
+2025-06-16 13:03:14 | [INFO]    | Discordia 2.13.0
+2025-06-16 13:03:14 | [INFO]    | Connecting to Discord...
+2025-06-16 13:03:14 | [INFO]    | Authenticated as pianocat#8299
+2025-06-16 13:03:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-16 13:03:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 13:03:14 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 13:03:15 | [INFO]    | Shard 0 : Received READY
+2025-06-16 13:04:22 | [INFO]    | Discordia 2.13.0
+2025-06-16 13:04:22 | [INFO]    | Connecting to Discord...
+2025-06-16 13:04:23 | [INFO]    | Authenticated as pianocat#8299
+2025-06-16 13:04:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-16 13:04:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 13:04:23 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 13:04:23 | [INFO]    | Shard 0 : Received READY
+2025-06-16 13:09:33 | [INFO]    | Shard 0 : Disconnected
+2025-06-16 13:09:33 | [INFO]    | Shard 0 : Reconnecting after 1033 ms...
+2025-06-16 13:09:34 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-16 13:09:34 | [INFO]    | Shard 0 : Reconnecting after 2128 ms...
+2025-06-16 13:09:36 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-16 13:09:36 | [INFO]    | Shard 0 : Reconnecting after 4019 ms...
+2025-06-16 13:09:40 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-16 13:09:40 | [INFO]    | Shard 0 : Reconnecting after 8630 ms...
+2025-06-16 13:09:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 13:09:49 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 13:09:49 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-16 13:56:19 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-16 13:56:19 | [INFO]    | Shard 0 : Disconnected
+2025-06-16 13:56:19 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-16 13:56:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 13:56:20 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 13:56:20 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-16 15:45:24 | [INFO]    | Shard 0 : Disconnected
+2025-06-16 15:45:24 | [INFO]    | Shard 0 : Reconnecting after 1009 ms...
+2025-06-16 15:45:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 15:45:25 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 15:45:25 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-16 16:23:38 | [INFO]    | Discordia 2.13.0
+2025-06-16 16:23:38 | [INFO]    | Connecting to Discord...
+2025-06-16 16:23:39 | [INFO]    | Authenticated as pianocat#8299
+2025-06-16 16:23:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-16 16:23:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 16:23:40 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 16:23:41 | [INFO]    | Shard 0 : Received READY
+2025-06-16 16:25:10 | [INFO]    | Discordia 2.13.0
+2025-06-16 16:25:10 | [INFO]    | Connecting to Discord...
+2025-06-16 16:25:10 | [INFO]    | Authenticated as pianocat#8299
+2025-06-16 16:25:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-16 16:25:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 16:25:11 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 16:25:11 | [INFO]    | Shard 0 : Received READY
+2025-06-16 16:28:11 | [INFO]    | Discordia 2.13.0
+2025-06-16 16:28:11 | [INFO]    | Connecting to Discord...
+2025-06-16 16:28:12 | [INFO]    | Authenticated as pianocat#8299
+2025-06-16 16:28:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-16 16:28:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 16:28:12 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 16:28:13 | [INFO]    | Shard 0 : Received READY
+2025-06-16 18:26:12 | [INFO]    | Shard 0 : Disconnected
+2025-06-16 18:26:12 | [INFO]    | Shard 0 : Reconnecting after 1099 ms...
+2025-06-16 18:26:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 18:26:13 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 18:26:13 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-16 19:30:50 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-16 19:30:50 | [INFO]    | Shard 0 : Disconnected
+2025-06-16 19:30:50 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-16 19:30:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 19:30:50 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 19:30:50 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-16 20:17:21 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-16 20:17:21 | [INFO]    | Shard 0 : Disconnected
+2025-06-16 20:17:22 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-16 20:17:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 20:17:22 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 20:17:22 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-16 21:51:50 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-16 21:51:50 | [INFO]    | Shard 0 : Disconnected
+2025-06-16 21:51:50 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-16 21:51:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 21:51:51 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 21:51:51 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-16 23:46:38 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-16 23:46:38 | [INFO]    | Shard 0 : Disconnected
+2025-06-16 23:46:38 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-16 23:46:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-16 23:46:38 | [INFO]    | Shard 0 : Received HELLO
+2025-06-16 23:46:38 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-17 00:53:16 | [INFO]    | Shard 0 : Disconnected
+2025-06-17 00:53:16 | [INFO]    | Shard 0 : Reconnecting after 1087 ms...
+2025-06-17 00:53:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-17 00:53:18 | [INFO]    | Shard 0 : Received HELLO
+2025-06-17 00:53:18 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-17 01:09:17 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-17 01:09:17 | [INFO]    | Shard 0 : Disconnected
+2025-06-17 01:09:17 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-17 01:09:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-17 01:09:17 | [INFO]    | Shard 0 : Received HELLO
+2025-06-17 01:09:17 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-17 01:37:36 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-17 01:37:36 | [INFO]    | Shard 0 : Disconnected
+2025-06-17 01:37:36 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-17 01:37:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-17 01:37:36 | [INFO]    | Shard 0 : Received HELLO
+2025-06-17 01:37:36 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-17 13:23:15 | [INFO]    | Discordia 2.13.0
+2025-06-17 13:23:15 | [INFO]    | Connecting to Discord...
+2025-06-17 13:23:15 | [INFO]    | Authenticated as pianocat#8299
+2025-06-17 13:23:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-17 13:23:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-17 13:23:16 | [INFO]    | Shard 0 : Received HELLO
+2025-06-17 13:23:17 | [INFO]    | Shard 0 : Received READY
+2025-06-17 14:59:21 | [INFO]    | Shard 0 : Disconnected
+2025-06-17 14:59:21 | [INFO]    | Shard 0 : Reconnecting after 996 ms...
+2025-06-17 14:59:22 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-17 14:59:22 | [INFO]    | Shard 0 : Reconnecting after 1961 ms...
+2025-06-17 14:59:24 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-17 14:59:24 | [INFO]    | Shard 0 : Reconnecting after 4324 ms...
+2025-06-17 14:59:28 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-17 14:59:28 | [INFO]    | Shard 0 : Reconnecting after 7304 ms...
+2025-06-17 14:59:35 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-17 14:59:35 | [INFO]    | Shard 0 : Reconnecting after 17525 ms...
+2025-06-17 15:00:05 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-17 15:00:05 | [INFO]    | Shard 0 : Reconnecting after 31991 ms...
+2025-06-17 15:00:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-17 15:00:37 | [INFO]    | Shard 0 : Received HELLO
+2025-06-17 15:00:38 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-06-17 15:00:41 | [INFO]    | Shard 0 : Received READY
+2025-06-17 16:46:09 | [INFO]    | Shard 0 : Disconnected
+2025-06-17 16:46:09 | [INFO]    | Shard 0 : Reconnecting after 965 ms...
+2025-06-17 16:46:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-17 16:46:11 | [INFO]    | Shard 0 : Received HELLO
+2025-06-17 16:46:11 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-17 19:29:29 | [INFO]    | Shard 0 : Disconnected
+2025-06-17 19:29:29 | [INFO]    | Shard 0 : Reconnecting after 1017 ms...
+2025-06-17 19:29:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-17 19:29:30 | [INFO]    | Shard 0 : Received HELLO
+2025-06-17 19:29:30 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-17 19:44:50 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-17 19:44:50 | [INFO]    | Shard 0 : Disconnected
+2025-06-17 19:44:50 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-17 19:44:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-17 19:44:51 | [INFO]    | Shard 0 : Received HELLO
+2025-06-17 19:44:51 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-17 19:59:16 | [INFO]    | Shard 0 : Disconnected
+2025-06-17 19:59:16 | [INFO]    | Shard 0 : Reconnecting after 960 ms...
+2025-06-17 19:59:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-17 19:59:17 | [INFO]    | Shard 0 : Received HELLO
+2025-06-17 19:59:17 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 10:23:05 | [INFO]    | Discordia 2.13.0
+2025-06-18 10:23:05 | [INFO]    | Connecting to Discord...
+2025-06-18 10:23:06 | [INFO]    | Authenticated as pianocat#8299
+2025-06-18 10:23:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-18 10:23:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 10:23:07 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 10:23:07 | [INFO]    | Shard 0 : Received READY
+2025-06-18 10:33:05 | [WARNING] | Shard 0 : 1000 - Connection closed
+2025-06-18 10:33:05 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 10:33:05 | [INFO]    | Shard 0 : Reconnecting after 1046 ms...
+2025-06-18 10:33:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 10:33:16 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 10:33:16 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 10:36:58 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 10:36:58 | [INFO]    | Shard 0 : Reconnecting after 1036 ms...
+2025-06-18 10:36:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 10:36:59 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 10:36:59 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 12:06:20 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 12:06:20 | [INFO]    | Shard 0 : Reconnecting after 920 ms...
+2025-06-18 12:06:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 12:06:21 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 12:06:22 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 13:28:18 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 13:28:18 | [INFO]    | Shard 0 : Reconnecting after 1005 ms...
+2025-06-18 13:28:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 13:28:19 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 13:28:19 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 13:48:45 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-18 13:48:45 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 13:48:45 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-18 13:48:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 13:48:46 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 13:48:46 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 17:15:32 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-18 17:15:32 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 17:15:32 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-18 17:15:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 17:15:32 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 17:15:32 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 18:11:30 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-18 18:11:30 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 18:11:30 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-18 18:11:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 18:11:30 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 18:11:30 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 19:09:24 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-18 19:09:24 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 19:09:24 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-18 19:09:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 19:09:24 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 19:09:25 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 20:44:08 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-18 20:44:08 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 20:44:08 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-18 20:44:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 20:44:09 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 20:44:09 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 22:37:59 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-18 22:37:59 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 22:37:59 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-18 22:37:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 22:37:59 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 22:37:59 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-18 23:08:53 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-18 23:08:53 | [INFO]    | Shard 0 : Disconnected
+2025-06-18 23:08:53 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-18 23:08:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-18 23:08:54 | [INFO]    | Shard 0 : Received HELLO
+2025-06-18 23:08:54 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-19 00:20:07 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-19 00:20:07 | [INFO]    | Shard 0 : Disconnected
+2025-06-19 00:20:07 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-19 00:20:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-19 00:20:07 | [INFO]    | Shard 0 : Received HELLO
+2025-06-19 00:20:07 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-19 01:34:54 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-19 01:34:54 | [INFO]    | Shard 0 : Disconnected
+2025-06-19 01:34:54 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-19 01:34:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-19 01:34:54 | [INFO]    | Shard 0 : Received HELLO
+2025-06-19 01:34:54 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-19 13:35:54 | [INFO]    | Discordia 2.13.0
+2025-06-19 13:35:54 | [INFO]    | Connecting to Discord...
+2025-06-19 13:35:55 | [INFO]    | Authenticated as pianocat#8299
+2025-06-19 13:35:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-19 13:35:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-19 13:35:56 | [INFO]    | Shard 0 : Received HELLO
+2025-06-19 13:35:57 | [INFO]    | Shard 0 : Received READY
+2025-06-19 13:40:25 | [INFO]    | Shard 0 : Disconnected
+2025-06-19 13:40:25 | [INFO]    | Shard 0 : Reconnecting after 909 ms...
+2025-06-19 13:40:38 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:40:38 | [INFO]    | Shard 0 : Reconnecting after 1830 ms...
+2025-06-19 13:40:40 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:40:40 | [INFO]    | Shard 0 : Reconnecting after 3607 ms...
+2025-06-19 13:40:55 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:40:55 | [INFO]    | Shard 0 : Reconnecting after 7926 ms...
+2025-06-19 13:41:03 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:41:03 | [INFO]    | Shard 0 : Reconnecting after 14754 ms...
+2025-06-19 13:41:18 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:41:18 | [INFO]    | Shard 0 : Reconnecting after 32421 ms...
+2025-06-19 13:41:50 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:41:50 | [INFO]    | Shard 0 : Reconnecting after 65091 ms...
+2025-06-19 13:43:06 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:43:06 | [INFO]    | Shard 0 : Reconnecting after 63627 ms...
+2025-06-19 13:44:10 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:44:10 | [INFO]    | Shard 0 : Reconnecting after 63144 ms...
+2025-06-19 13:45:13 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:45:13 | [INFO]    | Shard 0 : Reconnecting after 56342 ms...
+2025-06-19 13:46:09 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:46:09 | [INFO]    | Shard 0 : Reconnecting after 64086 ms...
+2025-06-19 13:47:14 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:47:14 | [INFO]    | Shard 0 : Reconnecting after 58140 ms...
+2025-06-19 13:48:12 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-19 13:48:12 | [INFO]    | Shard 0 : Reconnecting after 59777 ms...
+2025-06-19 13:49:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-19 13:49:12 | [INFO]    | Shard 0 : Received HELLO
+2025-06-19 13:49:12 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-06-19 13:49:14 | [INFO]    | Shard 0 : Received READY
+2025-06-19 14:28:03 | [INFO]    | Shard 0 : Disconnected
+2025-06-19 14:28:03 | [INFO]    | Shard 0 : Reconnecting after 1092 ms...
+2025-06-19 14:28:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-19 14:28:04 | [INFO]    | Shard 0 : Received HELLO
+2025-06-19 14:28:05 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-19 16:33:24 | [INFO]    | Shard 0 : Disconnected
+2025-06-19 16:33:24 | [INFO]    | Shard 0 : Reconnecting after 992 ms...
+2025-06-19 16:33:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-19 16:33:25 | [INFO]    | Shard 0 : Received HELLO
+2025-06-19 16:33:25 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-20 14:15:54 | [INFO]    | Discordia 2.13.0
+2025-06-20 14:15:54 | [INFO]    | Connecting to Discord...
+2025-06-20 14:15:55 | [INFO]    | Authenticated as pianocat#8299
+2025-06-20 14:15:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-20 14:15:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 14:15:56 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 14:15:56 | [INFO]    | Shard 0 : Received READY
+2025-06-20 14:20:55 | [INFO]    | Discordia 2.13.0
+2025-06-20 14:20:55 | [INFO]    | Connecting to Discord...
+2025-06-20 14:20:55 | [INFO]    | Authenticated as pianocat#8299
+2025-06-20 14:20:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-20 14:20:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 14:20:55 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 14:20:56 | [INFO]    | Shard 0 : Received READY
+2025-06-20 14:21:04 | [INFO]    | Discordia 2.13.0
+2025-06-20 14:21:04 | [INFO]    | Connecting to Discord...
+2025-06-20 14:21:04 | [INFO]    | Authenticated as pianocat#8299
+2025-06-20 14:21:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-20 14:21:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 14:21:05 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 14:21:05 | [INFO]    | Shard 0 : Received READY
+2025-06-20 14:21:43 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1307114533541773325/messages
+2025-06-20 14:22:25 | [INFO]    | Discordia 2.13.0
+2025-06-20 14:22:25 | [INFO]    | Connecting to Discord...
+2025-06-20 14:22:26 | [INFO]    | Authenticated as pianocat#8299
+2025-06-20 14:22:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-20 14:22:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 14:22:26 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 14:22:26 | [INFO]    | Shard 0 : Received READY
+2025-06-20 14:22:34 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1307114533541773325/messages
+2025-06-20 15:04:27 | [INFO]    | Shard 0 : Disconnected
+2025-06-20 15:04:27 | [INFO]    | Shard 0 : Reconnecting after 909 ms...
+2025-06-20 15:04:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 15:04:29 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 15:04:29 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-20 17:08:58 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-20 17:08:58 | [INFO]    | Shard 0 : Disconnected
+2025-06-20 17:08:58 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-20 17:08:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 17:08:58 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 17:08:58 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-20 17:17:17 | [INFO]    | Shard 0 : Disconnected
+2025-06-20 17:17:17 | [INFO]    | Shard 0 : Reconnecting after 1055 ms...
+2025-06-20 17:17:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 17:17:19 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 17:17:19 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-20 20:31:28 | [INFO]    | Shard 0 : Disconnected
+2025-06-20 20:31:28 | [INFO]    | Shard 0 : Reconnecting after 988 ms...
+2025-06-20 20:31:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 20:31:29 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 20:31:29 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-20 21:01:43 | [INFO]    | Shard 0 : Disconnected
+2025-06-20 21:01:43 | [INFO]    | Shard 0 : Reconnecting after 1049 ms...
+2025-06-20 21:01:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 21:01:44 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 21:01:44 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-20 23:28:58 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-20 23:28:58 | [INFO]    | Shard 0 : Disconnected
+2025-06-20 23:28:58 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-20 23:28:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 23:28:58 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 23:28:59 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-20 23:59:45 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-20 23:59:46 | [INFO]    | Shard 0 : Disconnected
+2025-06-20 23:59:46 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-20 23:59:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-20 23:59:46 | [INFO]    | Shard 0 : Received HELLO
+2025-06-20 23:59:46 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-21 01:12:40 | [WARNING] | Shard 0 : 4001 - Unknown opcode.
+2025-06-21 01:12:40 | [INFO]    | Shard 0 : Disconnected
+2025-06-21 01:12:40 | [INFO]    | Shard 0 : Reconnecting after 934 ms...
+2025-06-21 01:12:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-21 01:12:41 | [INFO]    | Shard 0 : Received HELLO
+2025-06-21 01:12:41 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-06-21 01:12:45 | [INFO]    | Shard 0 : Received READY
+2025-06-21 01:13:22 | [WARNING] | Shard 0 : 4001 - Unknown opcode.
+2025-06-21 01:13:22 | [INFO]    | Shard 0 : Disconnected
+2025-06-21 01:13:22 | [INFO]    | Shard 0 : Reconnecting after 972 ms...
+2025-06-21 01:13:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-21 01:13:24 | [INFO]    | Shard 0 : Received HELLO
+2025-06-21 01:13:24 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-06-21 01:13:27 | [INFO]    | Shard 0 : Received READY
+2025-06-21 01:14:05 | [WARNING] | Shard 0 : 4001 - Unknown opcode.
+2025-06-21 01:14:05 | [INFO]    | Shard 0 : Disconnected
+2025-06-21 01:14:05 | [INFO]    | Shard 0 : Reconnecting after 1088 ms...
+2025-06-21 01:14:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-21 01:14:07 | [INFO]    | Shard 0 : Received HELLO
+2025-06-21 01:14:07 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-06-21 01:14:11 | [INFO]    | Shard 0 : Received READY
+2025-06-21 01:14:48 | [WARNING] | Shard 0 : 4001 - Unknown opcode.
+2025-06-21 01:14:48 | [INFO]    | Shard 0 : Disconnected
+2025-06-21 01:14:48 | [INFO]    | Shard 0 : Reconnecting after 972 ms...
+2025-06-21 01:14:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-21 01:14:49 | [INFO]    | Shard 0 : Received HELLO
+2025-06-21 01:14:49 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-06-21 01:14:55 | [INFO]    | Shard 0 : Received READY
+2025-06-21 01:45:04 | [INFO]    | Shard 0 : Disconnected
+2025-06-21 01:45:04 | [INFO]    | Shard 0 : Reconnecting after 930 ms...
+2025-06-21 01:45:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-21 01:45:06 | [INFO]    | Shard 0 : Received HELLO
+2025-06-21 01:45:06 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-21 12:03:54 | [INFO]    | Discordia 2.13.0
+2025-06-21 12:03:54 | [INFO]    | Connecting to Discord...
+2025-06-21 12:03:55 | [INFO]    | Authenticated as pianocat#8299
+2025-06-21 12:03:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-21 12:03:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-21 12:03:56 | [INFO]    | Shard 0 : Received HELLO
+2025-06-21 12:03:56 | [INFO]    | Shard 0 : Received READY
+2025-06-21 12:13:55 | [INFO]    | Shard 0 : Disconnected
+2025-06-21 12:13:55 | [INFO]    | Shard 0 : Reconnecting after 1062 ms...
+2025-06-21 12:13:56 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-21 12:13:56 | [INFO]    | Shard 0 : Reconnecting after 2144 ms...
+2025-06-21 12:13:58 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-21 12:13:58 | [INFO]    | Shard 0 : Reconnecting after 4149 ms...
+2025-06-21 12:14:02 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-21 12:14:02 | [INFO]    | Shard 0 : Reconnecting after 8504 ms...
+2025-06-21 12:14:11 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-21 12:14:11 | [INFO]    | Shard 0 : Reconnecting after 16732 ms...
+2025-06-21 12:14:28 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-06-21 12:14:28 | [INFO]    | Shard 0 : Reconnecting after 31514 ms...
+2025-06-21 12:14:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-21 12:14:58 | [INFO]    | Shard 0 : Received HELLO
+2025-06-21 12:14:58 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-06-21 12:15:04 | [INFO]    | Shard 0 : Received READY
+2025-06-21 13:36:21 | [WARNING] | Shard 0 : 1000 - Connection closed
+2025-06-21 13:36:21 | [INFO]    | Shard 0 : Disconnected
+2025-06-21 13:36:21 | [INFO]    | Shard 0 : Reconnecting after 917 ms...
+2025-06-21 13:36:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-21 13:36:23 | [INFO]    | Shard 0 : Received HELLO
+2025-06-21 13:36:23 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-21 20:33:46 | [INFO]    | Discordia 2.13.0
+2025-06-21 20:33:47 | [INFO]    | Connecting to Discord...
+2025-06-21 20:33:47 | [INFO]    | Authenticated as pianocat#8299
+2025-06-21 20:33:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-21 20:33:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-21 20:33:48 | [INFO]    | Shard 0 : Received HELLO
+2025-06-21 20:33:48 | [INFO]    | Shard 0 : Received READY
+2025-06-21 20:36:07 | [INFO]    | Shard 0 : Disconnected
+2025-06-21 20:36:07 | [INFO]    | Shard 0 : Reconnecting after 950 ms...
+2025-06-21 20:36:08 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ENOENT)
+2025-06-21 20:36:08 | [INFO]    | Shard 0 : Reconnecting after 2097 ms...
+2025-06-21 20:36:10 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ENOENT)
+2025-06-21 20:36:10 | [INFO]    | Shard 0 : Reconnecting after 4153 ms...
+2025-06-21 20:36:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-21 20:36:14 | [INFO]    | Shard 0 : Received HELLO
+2025-06-21 20:36:14 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-22 00:05:31 | [WARNING] | Shard 0 : 1000 - Connection closed
+2025-06-22 00:05:31 | [INFO]    | Shard 0 : Disconnected
+2025-06-22 00:05:31 | [INFO]    | Shard 0 : Reconnecting after 965 ms...
+2025-06-22 00:05:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 00:05:32 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 00:05:33 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-22 14:42:32 | [INFO]    | Discordia 2.13.0
+2025-06-22 14:42:32 | [INFO]    | Connecting to Discord...
+2025-06-22 14:42:33 | [INFO]    | Authenticated as pianocat#8299
+2025-06-22 14:42:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-22 14:42:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 14:42:33 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 14:42:34 | [INFO]    | Shard 0 : Received READY
+2025-06-22 16:26:43 | [INFO]    | Shard 0 : Disconnected
+2025-06-22 16:26:43 | [INFO]    | Shard 0 : Reconnecting after 915 ms...
+2025-06-22 16:27:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 16:27:03 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 16:27:03 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-22 16:29:01 | [INFO]    | Shard 0 : Disconnected
+2025-06-22 16:29:01 | [INFO]    | Shard 0 : Reconnecting after 1087 ms...
+2025-06-22 16:29:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 16:29:02 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 16:29:03 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-22 17:15:08 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-22 17:15:08 | [INFO]    | Shard 0 : Disconnected
+2025-06-22 17:15:08 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-22 17:15:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 17:15:08 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 17:15:08 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-22 17:46:03 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-22 17:46:03 | [INFO]    | Shard 0 : Disconnected
+2025-06-22 17:46:03 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-22 17:46:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 17:46:03 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 17:46:04 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-22 20:50:16 | [INFO]    | Discordia 2.13.0
+2025-06-22 20:50:16 | [INFO]    | Connecting to Discord...
+2025-06-22 20:50:16 | [INFO]    | Authenticated as pianocat#8299
+2025-06-22 20:50:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-22 20:50:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 20:50:17 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 20:50:18 | [INFO]    | Shard 0 : Received READY
+2025-06-22 21:47:54 | [INFO]    | Shard 0 : Disconnected
+2025-06-22 21:47:54 | [INFO]    | Shard 0 : Reconnecting after 1026 ms...
+2025-06-22 21:47:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 21:47:55 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 21:47:55 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-06-22 21:48:00 | [INFO]    | Shard 0 : Received READY
+2025-06-22 21:48:58 | [INFO]    | Shard 0 : Disconnected
+2025-06-22 21:48:58 | [INFO]    | Shard 0 : Reconnecting after 1020 ms...
+2025-06-22 21:49:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 21:49:19 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 21:49:19 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-22 21:49:56 | [INFO]    | Shard 0 : Disconnected
+2025-06-22 21:49:56 | [INFO]    | Shard 0 : Reconnecting after 1916 ms...
+2025-06-22 21:49:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 21:49:59 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 21:49:59 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-22 23:53:53 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-06-22 23:53:53 | [INFO]    | Shard 0 : Disconnected
+2025-06-22 23:53:53 | [INFO]    | Shard 0 : Reconnecting...
+2025-06-22 23:53:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-22 23:53:53 | [INFO]    | Shard 0 : Received HELLO
+2025-06-22 23:53:53 | [INFO]    | Shard 0 : Received RESUMED
+2025-06-23 13:33:45 | [INFO]    | Discordia 2.13.0
+2025-06-23 13:33:45 | [INFO]    | Connecting to Discord...
+2025-06-23 13:33:46 | [INFO]    | Authenticated as pianocat#8299
+2025-06-23 13:33:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-06-23 13:33:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-23 13:33:47 | [INFO]    | Shard 0 : Received HELLO
+2025-06-23 13:33:47 | [INFO]    | Shard 0 : Received READY
+2025-06-23 13:37:47 | [INFO]    | Shard 0 : Disconnected
+2025-06-23 13:37:47 | [INFO]    | Shard 0 : Reconnecting after 938 ms...
+2025-06-23 13:37:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-06-23 13:37:49 | [INFO]    | Shard 0 : Received HELLO
+2025-06-23 13:37:49 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-06 19:41:33 | [INFO]    | Discordia 2.13.0
+2025-08-06 19:41:33 | [INFO]    | Connecting to Discord...
+2025-08-06 19:41:34 | [INFO]    | Authenticated as pianocat#8299
+2025-08-06 19:41:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-08-06 19:41:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-06 19:41:35 | [INFO]    | Shard 0 : Received HELLO
+2025-08-06 19:41:35 | [INFO]    | Shard 0 : Received READY
+2025-08-06 19:50:06 | [INFO]    | Shard 0 : Disconnected
+2025-08-06 19:50:06 | [INFO]    | Shard 0 : Reconnecting after 1069 ms...
+2025-08-06 19:50:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-06 19:50:07 | [INFO]    | Shard 0 : Received HELLO
+2025-08-06 19:50:07 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-06 20:35:54 | [INFO]    | Shard 0 : Disconnected
+2025-08-06 20:35:54 | [INFO]    | Shard 0 : Reconnecting after 1072 ms...
+2025-08-06 20:36:07 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:36:07 | [INFO]    | Shard 0 : Reconnecting after 2131 ms...
+2025-08-06 20:36:21 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:36:21 | [INFO]    | Shard 0 : Reconnecting after 4246 ms...
+2025-08-06 20:36:26 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:36:26 | [INFO]    | Shard 0 : Reconnecting after 7402 ms...
+2025-08-06 20:36:33 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:36:33 | [INFO]    | Shard 0 : Reconnecting after 15772 ms...
+2025-08-06 20:36:49 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_AGAIN)
+2025-08-06 20:36:49 | [INFO]    | Shard 0 : Reconnecting after 29395 ms...
+2025-08-06 20:37:18 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:37:18 | [INFO]    | Shard 0 : Reconnecting after 54493 ms...
+2025-08-06 20:38:13 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:38:13 | [INFO]    | Shard 0 : Reconnecting after 61112 ms...
+2025-08-06 20:39:14 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:39:14 | [INFO]    | Shard 0 : Reconnecting after 54973 ms...
+2025-08-06 20:40:09 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:40:09 | [INFO]    | Shard 0 : Reconnecting after 60900 ms...
+2025-08-06 20:41:10 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:41:10 | [INFO]    | Shard 0 : Reconnecting after 64794 ms...
+2025-08-06 20:42:15 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:42:15 | [INFO]    | Shard 0 : Reconnecting after 61160 ms...
+2025-08-06 20:43:16 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:43:16 | [INFO]    | Shard 0 : Reconnecting after 55583 ms...
+2025-08-06 20:44:11 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:44:11 | [INFO]    | Shard 0 : Reconnecting after 56457 ms...
+2025-08-06 20:45:08 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:45:08 | [INFO]    | Shard 0 : Reconnecting after 57093 ms...
+2025-08-06 20:46:05 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:46:05 | [INFO]    | Shard 0 : Reconnecting after 65242 ms...
+2025-08-06 20:47:10 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:47:10 | [INFO]    | Shard 0 : Reconnecting after 54722 ms...
+2025-08-06 20:48:05 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:48:05 | [INFO]    | Shard 0 : Reconnecting after 55035 ms...
+2025-08-06 20:49:00 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:49:00 | [INFO]    | Shard 0 : Reconnecting after 58406 ms...
+2025-08-06 20:49:58 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:49:58 | [INFO]    | Shard 0 : Reconnecting after 55394 ms...
+2025-08-06 20:50:54 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:50:54 | [INFO]    | Shard 0 : Reconnecting after 56044 ms...
+2025-08-06 20:51:50 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-08-06 20:51:50 | [INFO]    | Shard 0 : Reconnecting after 56866 ms...
+2025-08-06 20:52:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-06 20:52:47 | [INFO]    | Shard 0 : Received HELLO
+2025-08-06 20:52:48 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-08-06 20:52:50 | [INFO]    | Shard 0 : Received READY
+2025-08-06 23:06:11 | [WARNING] | Shard 0 : 1001 - Connection closed
+2025-08-06 23:06:11 | [INFO]    | Shard 0 : Disconnected
+2025-08-06 23:06:11 | [INFO]    | Shard 0 : Reconnecting after 1095 ms...
+2025-08-06 23:06:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-06 23:06:13 | [INFO]    | Shard 0 : Received HELLO
+2025-08-06 23:06:13 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-07 13:50:32 | [INFO]    | Discordia 2.13.0
+2025-08-07 13:50:32 | [INFO]    | Connecting to Discord...
+2025-08-07 13:50:33 | [INFO]    | Authenticated as pianocat#8299
+2025-08-07 13:50:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-08-07 13:50:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-07 13:50:34 | [INFO]    | Shard 0 : Received HELLO
+2025-08-07 13:50:35 | [INFO]    | Shard 0 : Received READY
+2025-08-07 14:21:58 | [INFO]    | Shard 0 : Disconnected
+2025-08-07 14:21:58 | [INFO]    | Shard 0 : Reconnecting after 961 ms...
+2025-08-07 14:21:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-07 14:21:59 | [INFO]    | Shard 0 : Received HELLO
+2025-08-07 14:21:59 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-07 18:37:50 | [INFO]    | Discordia 2.13.0
+2025-08-07 18:37:50 | [INFO]    | Connecting to Discord...
+2025-08-07 18:37:53 | [INFO]    | Authenticated as pianocat#8299
+2025-08-07 18:37:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-08-07 18:37:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-07 18:37:55 | [INFO]    | Shard 0 : Received HELLO
+2025-08-07 18:37:56 | [INFO]    | Shard 0 : Received READY
+2025-08-07 19:36:38 | [INFO]    | Discordia 2.13.0
+2025-08-07 19:36:38 | [INFO]    | Connecting to Discord...
+2025-08-07 19:36:39 | [INFO]    | Authenticated as pianocat#8299
+2025-08-07 19:36:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-08-07 19:36:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-07 19:36:40 | [INFO]    | Shard 0 : Received HELLO
+2025-08-07 19:36:41 | [INFO]    | Shard 0 : Received READY
+2025-08-07 19:38:40 | [INFO]    | Shard 0 : Disconnected
+2025-08-07 19:38:40 | [INFO]    | Shard 0 : Reconnecting after 1023 ms...
+2025-08-07 19:38:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-07 19:38:41 | [INFO]    | Shard 0 : Received HELLO
+2025-08-07 19:38:41 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-07 20:27:32 | [INFO]    | Shard 0 : Disconnected
+2025-08-07 20:27:32 | [INFO]    | Shard 0 : Reconnecting after 1073 ms...
+2025-08-07 20:27:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-07 20:27:33 | [INFO]    | Shard 0 : Received HELLO
+2025-08-07 20:27:33 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-07 20:43:13 | [INFO]    | Shard 0 : Disconnected
+2025-08-07 20:43:13 | [INFO]    | Shard 0 : Reconnecting after 925 ms...
+2025-08-07 20:43:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-07 20:43:14 | [INFO]    | Shard 0 : Received HELLO
+2025-08-07 20:43:15 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-07 21:42:24 | [INFO]    | Shard 0 : Disconnected
+2025-08-07 21:42:24 | [INFO]    | Shard 0 : Reconnecting after 972 ms...
+2025-08-07 21:42:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-07 21:42:26 | [INFO]    | Shard 0 : Received HELLO
+2025-08-07 21:42:26 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-08-07 21:42:31 | [INFO]    | Shard 0 : Received READY
+2025-08-08 00:08:06 | [INFO]    | Shard 0 : Disconnected
+2025-08-08 00:08:06 | [INFO]    | Shard 0 : Reconnecting after 1046 ms...
+2025-08-08 00:08:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-08 00:08:07 | [INFO]    | Shard 0 : Received HELLO
+2025-08-08 00:08:07 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-08 00:48:04 | [INFO]    | Shard 0 : Disconnected
+2025-08-08 00:48:04 | [INFO]    | Shard 0 : Reconnecting after 1048 ms...
+2025-08-08 00:48:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-08 00:48:05 | [INFO]    | Shard 0 : Received HELLO
+2025-08-08 00:48:06 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-08 03:12:28 | [INFO]    | Shard 0 : Disconnected
+2025-08-08 03:12:28 | [INFO]    | Shard 0 : Reconnecting after 1065 ms...
+2025-08-08 03:12:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-08 03:12:29 | [INFO]    | Shard 0 : Received HELLO
+2025-08-08 03:12:30 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-08 03:34:30 | [INFO]    | Shard 0 : Disconnected
+2025-08-08 03:34:30 | [INFO]    | Shard 0 : Reconnecting after 991 ms...
+2025-08-08 03:34:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-08 03:34:31 | [INFO]    | Shard 0 : Received HELLO
+2025-08-08 03:34:31 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-11 22:10:40 | [INFO]    | Discordia 2.13.0
+2025-08-11 22:10:40 | [INFO]    | Connecting to Discord...
+2025-08-11 22:10:45 | [INFO]    | Authenticated as pianocat#8299
+2025-08-11 22:10:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-08-11 22:10:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-11 22:10:46 | [INFO]    | Shard 0 : Received HELLO
+2025-08-11 22:10:47 | [INFO]    | Shard 0 : Received READY
+2025-08-19 00:53:24 | [INFO]    | Discordia 2.13.0
+2025-08-19 00:53:24 | [INFO]    | Connecting to Discord...
+2025-08-19 00:53:24 | [INFO]    | Authenticated as pianocat#8299
+2025-08-19 00:53:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-08-19 00:53:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-19 00:53:25 | [INFO]    | Shard 0 : Received HELLO
+2025-08-19 00:53:26 | [INFO]    | Shard 0 : Received READY
+2025-08-19 01:43:26 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-08-19 01:43:27 | [INFO]    | Shard 0 : Disconnected
+2025-08-19 01:43:27 | [INFO]    | Shard 0 : Reconnecting...
+2025-08-19 01:43:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-19 01:43:32 | [INFO]    | Shard 0 : Received HELLO
+2025-08-19 01:43:32 | [INFO]    | Shard 0 : Received RESUMED
+2025-08-19 02:29:06 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-08-19 02:29:06 | [INFO]    | Shard 0 : Disconnected
+2025-08-19 02:29:06 | [INFO]    | Shard 0 : Reconnecting...
+2025-08-19 02:29:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-08-19 02:29:07 | [INFO]    | Shard 0 : Received HELLO
+2025-08-19 02:29:07 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-02 19:00:44 | [INFO]    | Discordia 2.13.0
+2025-09-02 19:00:44 | [INFO]    | Connecting to Discord...
+2025-09-02 19:00:45 | [INFO]    | Authenticated as pianocat#8299
+2025-09-02 19:00:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-02 19:00:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-02 19:00:47 | [INFO]    | Shard 0 : Received HELLO
+2025-09-02 19:00:48 | [INFO]    | Shard 0 : Received READY
+2025-09-02 19:01:11 | [INFO]    | Discordia 2.13.0
+2025-09-02 19:01:11 | [INFO]    | Connecting to Discord...
+2025-09-02 19:01:12 | [INFO]    | Authenticated as pianocat#8299
+2025-09-02 19:01:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-02 19:01:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-02 19:01:12 | [INFO]    | Shard 0 : Received HELLO
+2025-09-02 19:01:12 | [INFO]    | Shard 0 : Received READY
+2025-09-02 19:02:31 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1386051702523953282/messages
+2025-09-02 19:34:27 | [INFO]    | Discordia 2.13.0
+2025-09-02 19:34:27 | [INFO]    | Connecting to Discord...
+2025-09-02 19:34:28 | [INFO]    | Authenticated as pianocat#8299
+2025-09-02 19:34:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-02 19:34:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-02 19:34:29 | [INFO]    | Shard 0 : Received HELLO
+2025-09-02 19:34:29 | [INFO]    | Shard 0 : Received READY
+2025-09-02 19:34:50 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1386051702523953282/messages
+2025-09-02 19:44:01 | [INFO]    | Discordia 2.13.0
+2025-09-02 19:44:01 | [INFO]    | Connecting to Discord...
+2025-09-02 19:44:03 | [INFO]    | Authenticated as pianocat#8299
+2025-09-02 19:44:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-02 19:44:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-02 19:44:04 | [INFO]    | Shard 0 : Received HELLO
+2025-09-02 19:44:04 | [INFO]    | Shard 0 : Received READY
+2025-09-02 19:56:17 | [INFO]    | Discordia 2.13.0
+2025-09-02 19:56:17 | [INFO]    | Connecting to Discord...
+2025-09-02 19:56:17 | [INFO]    | Authenticated as pianocat#8299
+2025-09-02 19:56:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-02 19:56:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-02 19:56:18 | [INFO]    | Shard 0 : Received HELLO
+2025-09-02 19:56:19 | [INFO]    | Shard 0 : Received READY
+2025-09-02 21:08:59 | [INFO]    | Discordia 2.13.0
+2025-09-02 21:08:59 | [INFO]    | Connecting to Discord...
+2025-09-02 21:09:00 | [INFO]    | Authenticated as pianocat#8299
+2025-09-02 21:09:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-02 21:09:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-02 21:09:01 | [INFO]    | Shard 0 : Received HELLO
+2025-09-02 21:09:01 | [INFO]    | Shard 0 : Received READY
+2025-09-02 21:51:22 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-02 21:51:22 | [INFO]    | Shard 0 : Disconnected
+2025-09-02 21:51:22 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-02 21:51:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-02 21:51:22 | [INFO]    | Shard 0 : Received HELLO
+2025-09-02 21:51:23 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-02 23:56:10 | [INFO]    | Discordia 2.13.0
+2025-09-02 23:56:10 | [INFO]    | Connecting to Discord...
+2025-09-02 23:56:10 | [INFO]    | Authenticated as pianocat#8299
+2025-09-02 23:56:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-02 23:56:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-02 23:56:11 | [INFO]    | Shard 0 : Received HELLO
+2025-09-02 23:56:12 | [INFO]    | Shard 0 : Received READY
+2025-09-03 14:16:47 | [INFO]    | Discordia 2.13.0
+2025-09-03 14:16:47 | [INFO]    | Connecting to Discord...
+2025-09-03 14:16:48 | [INFO]    | Authenticated as pianocat#8299
+2025-09-03 14:16:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-03 14:16:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 14:16:49 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 14:16:49 | [INFO]    | Shard 0 : Received READY
+2025-09-03 15:27:19 | [INFO]    | Shard 0 : Disconnected
+2025-09-03 15:27:19 | [INFO]    | Shard 0 : Reconnecting after 1006 ms...
+2025-09-03 15:27:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 15:27:21 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 15:27:21 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-03 15:59:26 | [INFO]    | Discordia 2.13.0
+2025-09-03 15:59:26 | [INFO]    | Connecting to Discord...
+2025-09-03 15:59:27 | [INFO]    | Authenticated as pianocat#8299
+2025-09-03 15:59:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-03 15:59:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 15:59:28 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 15:59:28 | [INFO]    | Shard 0 : Received READY
+2025-09-03 16:03:18 | [INFO]    | Discordia 2.13.0
+2025-09-03 16:03:18 | [INFO]    | Connecting to Discord...
+2025-09-03 16:03:18 | [INFO]    | Authenticated as pianocat#8299
+2025-09-03 16:03:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-03 16:03:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 16:03:19 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 16:03:19 | [INFO]    | Shard 0 : Received READY
+2025-09-03 16:17:30 | [INFO]    | Discordia 2.13.0
+2025-09-03 16:17:30 | [INFO]    | Connecting to Discord...
+2025-09-03 16:17:31 | [INFO]    | Authenticated as pianocat#8299
+2025-09-03 16:17:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-03 16:17:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 16:17:31 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 16:17:32 | [INFO]    | Shard 0 : Received READY
+2025-09-03 16:18:37 | [INFO]    | Discordia 2.13.0
+2025-09-03 16:18:37 | [INFO]    | Connecting to Discord...
+2025-09-03 16:18:37 | [INFO]    | Authenticated as pianocat#8299
+2025-09-03 16:18:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-03 16:18:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 16:18:37 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 16:18:37 | [INFO]    | Shard 0 : Received READY
+2025-09-03 16:20:07 | [INFO]    | Discordia 2.13.0
+2025-09-03 16:20:07 | [INFO]    | Connecting to Discord...
+2025-09-03 16:20:07 | [INFO]    | Authenticated as pianocat#8299
+2025-09-03 16:20:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-03 16:20:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 16:20:08 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 16:20:08 | [INFO]    | Shard 0 : Received READY
+2025-09-03 16:40:41 | [INFO]    | Discordia 2.13.0
+2025-09-03 16:40:41 | [INFO]    | Connecting to Discord...
+2025-09-03 16:40:42 | [INFO]    | Authenticated as pianocat#8299
+2025-09-03 16:40:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-03 16:40:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 16:40:42 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 16:40:42 | [INFO]    | Shard 0 : Received READY
+2025-09-03 16:44:16 | [INFO]    | Discordia 2.13.0
+2025-09-03 16:44:16 | [INFO]    | Connecting to Discord...
+2025-09-03 16:44:17 | [INFO]    | Authenticated as pianocat#8299
+2025-09-03 16:44:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-03 16:44:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 16:44:17 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 16:44:17 | [INFO]    | Shard 0 : Received READY
+2025-09-03 16:45:42 | [INFO]    | Discordia 2.13.0
+2025-09-03 16:45:42 | [INFO]    | Connecting to Discord...
+2025-09-03 16:45:42 | [INFO]    | Authenticated as pianocat#8299
+2025-09-03 16:45:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-03 16:45:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 16:45:42 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 16:45:43 | [INFO]    | Shard 0 : Received READY
+2025-09-03 17:49:44 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-03 17:49:44 | [INFO]    | Shard 0 : Disconnected
+2025-09-03 17:49:44 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-03 17:49:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 17:49:45 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 17:49:45 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-03 19:18:17 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-03 19:18:18 | [INFO]    | Shard 0 : Disconnected
+2025-09-03 19:18:18 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-03 19:18:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 19:18:18 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 19:18:18 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-03 21:24:24 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-03 21:24:24 | [INFO]    | Shard 0 : Disconnected
+2025-09-03 21:24:24 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-03 21:24:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 21:24:25 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 21:24:25 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-03 23:36:06 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-03 23:36:06 | [INFO]    | Shard 0 : Disconnected
+2025-09-03 23:36:06 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-03 23:36:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 23:36:06 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 23:36:06 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-03 23:50:09 | [INFO]    | Shard 0 : Disconnected
+2025-09-03 23:50:09 | [INFO]    | Shard 0 : Reconnecting after 957 ms...
+2025-09-03 23:50:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-03 23:50:11 | [INFO]    | Shard 0 : Received HELLO
+2025-09-03 23:50:11 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-04 00:19:45 | [INFO]    | Discordia 2.13.0
+2025-09-04 00:19:45 | [INFO]    | Connecting to Discord...
+2025-09-04 00:19:46 | [INFO]    | Authenticated as pianocat#8299
+2025-09-04 00:19:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-04 00:19:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 00:19:47 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 00:19:47 | [INFO]    | Shard 0 : Received READY
+2025-09-04 00:42:18 | [INFO]    | Shard 0 : Disconnected
+2025-09-04 00:42:18 | [INFO]    | Shard 0 : Reconnecting after 1049 ms...
+2025-09-04 00:42:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 00:42:20 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 00:42:20 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-04 14:40:53 | [INFO]    | Discordia 2.13.0
+2025-09-04 14:40:53 | [INFO]    | Connecting to Discord...
+2025-09-04 14:41:44 | [ERROR]   | Could not authenticate, check token: D:/dbots/pizzawizard32s/pianocat/deps/coro-http.lua:76: ECONNRESET
+2025-09-04 14:50:08 | [INFO]    | Discordia 2.13.0
+2025-09-04 14:50:08 | [INFO]    | Connecting to Discord...
+2025-09-04 14:50:08 | [INFO]    | Authenticated as pianocat#8299
+2025-09-04 14:50:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-04 14:50:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 14:50:09 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 14:50:09 | [INFO]    | Shard 0 : Received READY
+2025-09-04 14:56:37 | [INFO]    | Shard 0 : Disconnected
+2025-09-04 14:56:37 | [INFO]    | Shard 0 : Reconnecting after 1028 ms...
+2025-09-04 14:56:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 14:56:38 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 14:56:38 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-04 15:12:57 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-04 15:12:57 | [INFO]    | Shard 0 : Disconnected
+2025-09-04 15:12:57 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-04 15:12:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 15:12:57 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 15:12:57 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-04 17:09:32 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-04 17:09:32 | [INFO]    | Shard 0 : Disconnected
+2025-09-04 17:09:32 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-04 17:09:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 17:09:33 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 17:09:33 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-04 17:31:33 | [WARNING] | Shard 0 : 1001 - Connection closed
+2025-09-04 17:31:33 | [INFO]    | Shard 0 : Disconnected
+2025-09-04 17:31:33 | [INFO]    | Shard 0 : Reconnecting after 1061 ms...
+2025-09-04 17:31:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 17:31:34 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 17:31:35 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-04 19:09:53 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-04 19:09:53 | [INFO]    | Shard 0 : Disconnected
+2025-09-04 19:09:53 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-04 19:09:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 19:09:54 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 19:09:54 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-04 21:15:54 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-04 21:15:54 | [INFO]    | Shard 0 : Disconnected
+2025-09-04 21:15:54 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-04 21:15:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 21:15:54 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 21:15:54 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-04 21:31:47 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-04 21:31:47 | [INFO]    | Shard 0 : Disconnected
+2025-09-04 21:31:47 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-04 21:31:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 21:31:48 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 21:31:48 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-04 22:30:57 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-04 22:30:58 | [INFO]    | Shard 0 : Disconnected
+2025-09-04 22:30:58 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-04 22:30:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-04 22:30:58 | [INFO]    | Shard 0 : Received HELLO
+2025-09-04 22:30:58 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-05 16:18:39 | [INFO]    | Discordia 2.13.0
+2025-09-05 16:18:39 | [INFO]    | Connecting to Discord...
+2025-09-05 16:18:40 | [INFO]    | Authenticated as pianocat#8299
+2025-09-05 16:18:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-05 16:18:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 16:18:41 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 16:18:41 | [INFO]    | Shard 0 : Received READY
+2025-09-05 16:41:27 | [INFO]    | Discordia 2.13.0
+2025-09-05 16:41:27 | [INFO]    | Connecting to Discord...
+2025-09-05 16:41:27 | [INFO]    | Authenticated as pianocat#8299
+2025-09-05 16:41:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-05 16:41:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 16:41:28 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 16:41:28 | [INFO]    | Shard 0 : Received READY
+2025-09-05 16:44:02 | [INFO]    | Discordia 2.13.0
+2025-09-05 16:44:02 | [INFO]    | Connecting to Discord...
+2025-09-05 16:44:02 | [INFO]    | Authenticated as pianocat#8299
+2025-09-05 16:44:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-05 16:44:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 16:44:03 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 16:44:03 | [INFO]    | Shard 0 : Received READY
+2025-09-05 16:45:10 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1386051702523953282/messages
+2025-09-05 16:46:21 | [INFO]    | Discordia 2.13.0
+2025-09-05 16:46:21 | [INFO]    | Connecting to Discord...
+2025-09-05 16:46:21 | [INFO]    | Authenticated as pianocat#8299
+2025-09-05 16:46:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-05 16:46:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 16:46:21 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 16:46:22 | [INFO]    | Shard 0 : Received READY
+2025-09-05 16:46:39 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1386051702523953282/messages
+2025-09-05 16:57:41 | [INFO]    | Discordia 2.13.0
+2025-09-05 16:57:41 | [INFO]    | Connecting to Discord...
+2025-09-05 16:57:41 | [INFO]    | Authenticated as pianocat#8299
+2025-09-05 16:57:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-05 16:57:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 16:57:41 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 16:57:42 | [INFO]    | Shard 0 : Received READY
+2025-09-05 17:03:16 | [INFO]    | Discordia 2.13.0
+2025-09-05 17:03:16 | [INFO]    | Connecting to Discord...
+2025-09-05 17:03:17 | [INFO]    | Authenticated as pianocat#8299
+2025-09-05 17:03:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-05 17:03:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 17:03:17 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 17:03:18 | [INFO]    | Shard 0 : Received READY
+2025-09-05 18:58:49 | [INFO]    | Discordia 2.13.0
+2025-09-05 18:58:49 | [INFO]    | Connecting to Discord...
+2025-09-05 18:58:49 | [INFO]    | Authenticated as pianocat#8299
+2025-09-05 18:58:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-05 18:58:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 18:58:50 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 18:58:50 | [INFO]    | Shard 0 : Received READY
+2025-09-05 19:03:22 | [INFO]    | Discordia 2.13.0
+2025-09-05 19:03:22 | [INFO]    | Connecting to Discord...
+2025-09-05 19:03:22 | [INFO]    | Authenticated as pianocat#8299
+2025-09-05 19:03:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-05 19:03:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 19:03:23 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 19:03:23 | [INFO]    | Shard 0 : Received READY
+2025-09-05 19:19:24 | [INFO]    | Discordia 2.13.0
+2025-09-05 19:19:24 | [INFO]    | Connecting to Discord...
+2025-09-05 19:19:24 | [INFO]    | Authenticated as pianocat#8299
+2025-09-05 19:19:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-05 19:19:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 19:19:24 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 19:19:25 | [INFO]    | Shard 0 : Received READY
+2025-09-05 19:20:33 | [INFO]    | Discordia 2.13.0
+2025-09-05 19:20:33 | [INFO]    | Connecting to Discord...
+2025-09-05 19:20:33 | [INFO]    | Authenticated as pianocat#8299
+2025-09-05 19:20:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-05 19:20:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 19:20:33 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 19:20:34 | [INFO]    | Shard 0 : Received READY
+2025-09-05 22:37:05 | [INFO]    | Shard 0 : Disconnected
+2025-09-05 22:37:05 | [INFO]    | Shard 0 : Reconnecting after 959 ms...
+2025-09-05 22:37:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-05 22:37:06 | [INFO]    | Shard 0 : Received HELLO
+2025-09-05 22:37:07 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-06 01:57:32 | [INFO]    | Shard 0 : Disconnected
+2025-09-06 01:57:32 | [INFO]    | Shard 0 : Reconnecting after 916 ms...
+2025-09-06 01:57:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 01:57:34 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 01:57:34 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-06 02:18:09 | [INFO]    | Discordia 2.13.0
+2025-09-06 02:18:09 | [INFO]    | Connecting to Discord...
+2025-09-06 02:18:10 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 02:18:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 02:18:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 02:18:10 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 02:18:11 | [INFO]    | Shard 0 : Received READY
+2025-09-06 02:18:50 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1340281672549142530/messages
+2025-09-06 02:19:57 | [INFO]    | Discordia 2.13.0
+2025-09-06 02:19:57 | [INFO]    | Connecting to Discord...
+2025-09-06 02:19:57 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 02:19:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 02:19:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 02:19:57 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 02:19:57 | [INFO]    | Shard 0 : Received READY
+2025-09-06 02:21:27 | [INFO]    | Discordia 2.13.0
+2025-09-06 02:21:27 | [INFO]    | Connecting to Discord...
+2025-09-06 02:21:27 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 02:21:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 02:21:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 02:21:27 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 02:21:28 | [INFO]    | Shard 0 : Received READY
+2025-09-06 02:24:00 | [INFO]    | Discordia 2.13.0
+2025-09-06 02:24:00 | [INFO]    | Connecting to Discord...
+2025-09-06 02:24:00 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 02:24:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 02:24:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 02:24:00 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 02:24:01 | [INFO]    | Shard 0 : Received READY
+2025-09-06 12:35:35 | [INFO]    | Discordia 2.13.0
+2025-09-06 12:35:36 | [INFO]    | Connecting to Discord...
+2025-09-06 12:35:37 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 12:35:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 12:35:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 12:35:38 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 12:35:38 | [INFO]    | Shard 0 : Received READY
+2025-09-06 15:57:20 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-06 15:57:20 | [INFO]    | Shard 0 : Disconnected
+2025-09-06 15:57:20 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-06 15:57:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 15:57:21 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 15:57:21 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-06 17:16:10 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:16:10 | [INFO]    | Connecting to Discord...
+2025-09-06 17:16:11 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:16:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:16:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:16:12 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:16:12 | [INFO]    | Shard 0 : Received READY
+2025-09-06 17:17:00 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:17:00 | [INFO]    | Connecting to Discord...
+2025-09-06 17:17:00 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:17:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:17:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:17:00 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:17:01 | [INFO]    | Shard 0 : Received READY
+2025-09-06 17:19:20 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:19:20 | [INFO]    | Connecting to Discord...
+2025-09-06 17:19:20 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:19:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:19:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:19:21 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:19:21 | [INFO]    | Shard 0 : Received READY
+2025-09-06 17:20:50 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:20:50 | [INFO]    | Connecting to Discord...
+2025-09-06 17:20:51 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:20:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:20:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:20:51 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:20:52 | [INFO]    | Shard 0 : Received READY
+2025-09-06 17:22:12 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:22:12 | [INFO]    | Connecting to Discord...
+2025-09-06 17:22:12 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:22:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:22:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:22:12 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:22:12 | [INFO]    | Shard 0 : Received READY
+2025-09-06 17:25:14 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:25:14 | [INFO]    | Connecting to Discord...
+2025-09-06 17:25:14 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:25:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:25:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:25:14 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:25:15 | [INFO]    | Shard 0 : Received READY
+2025-09-06 17:29:15 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:29:15 | [INFO]    | Connecting to Discord...
+2025-09-06 17:29:15 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:29:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:29:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:29:15 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:29:16 | [INFO]    | Shard 0 : Received READY
+2025-09-06 17:33:43 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:33:43 | [INFO]    | Connecting to Discord...
+2025-09-06 17:33:44 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:33:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:33:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:33:44 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:33:44 | [INFO]    | Shard 0 : Received READY
+2025-09-06 17:34:23 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:34:23 | [INFO]    | Connecting to Discord...
+2025-09-06 17:34:23 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:34:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:34:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:34:24 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:34:24 | [INFO]    | Shard 0 : Received READY
+2025-09-06 17:57:39 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:57:39 | [INFO]    | Connecting to Discord...
+2025-09-06 17:57:40 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:57:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:57:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:57:40 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:57:40 | [INFO]    | Shard 0 : Received READY
+2025-09-06 17:58:39 | [INFO]    | Discordia 2.13.0
+2025-09-06 17:58:39 | [INFO]    | Connecting to Discord...
+2025-09-06 17:58:39 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 17:58:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 17:58:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 17:58:39 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 17:58:40 | [INFO]    | Shard 0 : Received READY
+2025-09-06 18:28:32 | [INFO]    | Discordia 2.13.0
+2025-09-06 18:28:32 | [INFO]    | Connecting to Discord...
+2025-09-06 18:28:33 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 18:28:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 18:28:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 18:28:33 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 18:28:34 | [INFO]    | Shard 0 : Received READY
+2025-09-06 18:31:02 | [INFO]    | Discordia 2.13.0
+2025-09-06 18:31:02 | [INFO]    | Connecting to Discord...
+2025-09-06 18:31:03 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 18:31:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 18:31:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 18:31:03 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 18:31:04 | [INFO]    | Shard 0 : Received READY
+2025-09-06 20:55:50 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-06 20:55:50 | [INFO]    | Shard 0 : Disconnected
+2025-09-06 20:55:50 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-06 20:55:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 20:55:51 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 20:55:51 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-06 22:20:01 | [INFO]    | Discordia 2.13.0
+2025-09-06 22:20:01 | [INFO]    | Connecting to Discord...
+2025-09-06 22:20:01 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 22:20:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 22:20:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 22:20:02 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 22:20:02 | [INFO]    | Shard 0 : Received READY
+2025-09-06 23:57:50 | [INFO]    | Discordia 2.13.0
+2025-09-06 23:57:50 | [INFO]    | Connecting to Discord...
+2025-09-06 23:57:50 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 23:57:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 23:57:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 23:57:51 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 23:57:51 | [INFO]    | Shard 0 : Received READY
+2025-09-06 23:59:22 | [INFO]    | Discordia 2.13.0
+2025-09-06 23:59:22 | [INFO]    | Connecting to Discord...
+2025-09-06 23:59:22 | [INFO]    | Authenticated as pianocat#8299
+2025-09-06 23:59:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-06 23:59:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-06 23:59:22 | [INFO]    | Shard 0 : Received HELLO
+2025-09-06 23:59:22 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:01:30 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:01:30 | [INFO]    | Connecting to Discord...
+2025-09-07 00:01:30 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:01:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:01:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:01:30 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:01:31 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:23:36 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:23:36 | [INFO]    | Connecting to Discord...
+2025-09-07 00:23:36 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:23:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:23:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:23:36 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:23:37 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:24:13 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:24:13 | [INFO]    | Connecting to Discord...
+2025-09-07 00:24:14 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:24:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:24:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:24:14 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:24:14 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:24:19 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1400211280798945344/messages
+2025-09-07 00:24:31 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1400211280798945344/messages
+2025-09-07 00:25:02 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1400211280798945344/messages
+2025-09-07 00:25:31 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1400211280798945344/messages
+2025-09-07 00:27:46 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:27:46 | [INFO]    | Connecting to Discord...
+2025-09-07 00:27:46 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:27:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:27:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:27:46 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:27:47 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:42:08 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:42:08 | [INFO]    | Connecting to Discord...
+2025-09-07 00:42:08 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:42:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:42:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:42:08 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:42:09 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:42:32 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:42:32 | [INFO]    | Connecting to Discord...
+2025-09-07 00:42:32 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:42:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:42:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:42:32 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:42:33 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:43:33 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1400211280798945344/messages
+2025-09-07 00:43:58 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1400211280798945344/messages
+2025-09-07 00:45:04 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:45:04 | [INFO]    | Connecting to Discord...
+2025-09-07 00:45:04 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:45:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:45:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:45:04 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:45:05 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:45:42 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:45:42 | [INFO]    | Connecting to Discord...
+2025-09-07 00:45:43 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:45:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:45:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:45:43 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:45:43 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:46:21 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:46:21 | [INFO]    | Connecting to Discord...
+2025-09-07 00:46:21 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:46:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:46:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:46:21 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:46:22 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:47:03 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:47:03 | [INFO]    | Connecting to Discord...
+2025-09-07 00:47:03 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:47:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:47:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:47:03 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:47:04 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:54:29 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:54:29 | [INFO]    | Connecting to Discord...
+2025-09-07 00:54:30 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:54:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:54:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:54:30 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:54:30 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:56:29 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:56:29 | [INFO]    | Connecting to Discord...
+2025-09-07 00:56:29 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:56:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:56:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:56:30 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:56:30 | [INFO]    | Shard 0 : Received READY
+2025-09-07 00:58:02 | [INFO]    | Discordia 2.13.0
+2025-09-07 00:58:02 | [INFO]    | Connecting to Discord...
+2025-09-07 00:58:02 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 00:58:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 00:58:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 00:58:03 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 00:58:03 | [INFO]    | Shard 0 : Received READY
+2025-09-07 01:08:06 | [INFO]    | Discordia 2.13.0
+2025-09-07 01:08:06 | [INFO]    | Connecting to Discord...
+2025-09-07 01:08:07 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 01:08:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 01:08:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 01:08:07 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 01:08:07 | [INFO]    | Shard 0 : Received READY
+2025-09-07 01:08:46 | [INFO]    | Discordia 2.13.0
+2025-09-07 01:08:46 | [INFO]    | Connecting to Discord...
+2025-09-07 01:08:47 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 01:08:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 01:08:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 01:08:47 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 01:08:47 | [INFO]    | Shard 0 : Received READY
+2025-09-07 01:13:28 | [INFO]    | Discordia 2.13.0
+2025-09-07 01:13:28 | [INFO]    | Connecting to Discord...
+2025-09-07 01:13:28 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 01:13:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 01:13:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 01:13:28 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 01:13:29 | [INFO]    | Shard 0 : Received READY
+2025-09-07 20:21:43 | [INFO]    | Discordia 2.13.0
+2025-09-07 20:21:43 | [INFO]    | Connecting to Discord...
+2025-09-07 20:21:45 | [INFO]    | Authenticated as pianocat#8299
+2025-09-07 20:21:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-07 20:21:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 20:21:46 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 20:21:46 | [INFO]    | Shard 0 : Received READY
+2025-09-07 20:46:43 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-07 20:46:43 | [INFO]    | Shard 0 : Disconnected
+2025-09-07 20:46:43 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-07 20:46:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 20:46:43 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 20:46:43 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-07 21:03:00 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-07 21:03:00 | [INFO]    | Shard 0 : Disconnected
+2025-09-07 21:03:00 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-07 21:03:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 21:03:01 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 21:03:01 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-07 23:47:04 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-07 23:47:04 | [INFO]    | Shard 0 : Disconnected
+2025-09-07 23:47:04 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-07 23:47:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-07 23:47:04 | [INFO]    | Shard 0 : Received HELLO
+2025-09-07 23:47:05 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-08 00:40:05 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-08 00:40:05 | [INFO]    | Shard 0 : Disconnected
+2025-09-08 00:40:05 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-08 00:40:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-08 00:40:06 | [INFO]    | Shard 0 : Received HELLO
+2025-09-08 00:40:06 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-08 02:01:17 | [WARNING] | Unhandled CHANNEL_UPDATE (type 15)
+2025-09-08 02:15:40 | [WARNING] | Shard 0 : 1001 - Connection closed
+2025-09-08 02:15:40 | [INFO]    | Shard 0 : Disconnected
+2025-09-08 02:15:40 | [INFO]    | Shard 0 : Reconnecting after 1062 ms...
+2025-09-08 02:15:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-08 02:15:41 | [INFO]    | Shard 0 : Received HELLO
+2025-09-08 02:15:41 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-08 21:12:37 | [INFO]    | Discordia 2.13.0
+2025-09-08 21:12:37 | [INFO]    | Connecting to Discord...
+2025-09-08 21:12:38 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-08 21:12:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-08 21:12:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-08 21:12:39 | [INFO]    | Shard 0 : Received HELLO
+2025-09-08 21:12:39 | [INFO]    | Shard 0 : Received READY
+2025-09-08 21:18:49 | [INFO]    | Discordia 2.13.0
+2025-09-08 21:18:49 | [INFO]    | Connecting to Discord...
+2025-09-08 21:18:49 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-08 21:18:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-08 21:18:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-08 21:18:49 | [INFO]    | Shard 0 : Received HELLO
+2025-09-08 21:18:50 | [INFO]    | Shard 0 : Received READY
+2025-09-08 22:31:40 | [INFO]    | Shard 0 : Disconnected
+2025-09-08 22:31:40 | [INFO]    | Shard 0 : Reconnecting after 971 ms...
+2025-09-08 22:31:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-08 22:31:41 | [INFO]    | Shard 0 : Received HELLO
+2025-09-08 22:31:41 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-08 23:10:29 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-08 23:10:29 | [INFO]    | Shard 0 : Disconnected
+2025-09-08 23:10:29 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-08 23:10:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-08 23:10:29 | [INFO]    | Shard 0 : Received HELLO
+2025-09-08 23:10:30 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-09 00:28:19 | [INFO]    | Discordia 2.13.0
+2025-09-09 00:28:19 | [INFO]    | Connecting to Discord...
+2025-09-09 00:28:20 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 00:28:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 00:28:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:28:21 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:28:37 | [INFO]    | Discordia 2.13.0
+2025-09-09 00:28:37 | [INFO]    | Connecting to Discord...
+2025-09-09 00:28:37 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 00:28:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 00:28:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:28:37 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:29:33 | [WARNING] | Shard 0 : 1000 - Connection closed
+2025-09-09 00:29:33 | [INFO]    | Shard 0 : Disconnected
+2025-09-09 00:29:33 | [INFO]    | Shard 0 : Reconnecting after 1062 ms...
+2025-09-09 00:29:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:29:34 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:31:29 | [INFO]    | Discordia 2.13.0
+2025-09-09 00:31:29 | [INFO]    | Connecting to Discord...
+2025-09-09 00:31:29 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 00:31:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 00:31:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:31:29 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:31:54 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-09-09 00:32:26 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-09-09 00:33:15 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-09-09 00:33:20 | [INFO]    | Shard 0 : Received READY
+2025-09-09 00:40:52 | [INFO]    | Discordia 2.13.0
+2025-09-09 00:40:52 | [INFO]    | Connecting to Discord...
+2025-09-09 00:40:54 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 00:40:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 00:40:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:40:55 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:40:55 | [INFO]    | Shard 0 : Received READY
+2025-09-09 00:42:25 | [INFO]    | Discordia 2.13.0
+2025-09-09 00:42:25 | [INFO]    | Connecting to Discord...
+2025-09-09 00:42:25 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 00:42:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 00:42:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:42:26 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:42:26 | [INFO]    | Shard 0 : Received READY
+2025-09-09 00:45:17 | [INFO]    | Discordia 2.13.0
+2025-09-09 00:45:17 | [INFO]    | Connecting to Discord...
+2025-09-09 00:45:17 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 00:45:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 00:45:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:45:17 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:45:18 | [INFO]    | Shard 0 : Received READY
+2025-09-09 00:54:05 | [INFO]    | Discordia 2.13.0
+2025-09-09 00:54:05 | [INFO]    | Connecting to Discord...
+2025-09-09 00:54:05 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 00:54:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 00:54:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:54:05 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:54:06 | [INFO]    | Shard 0 : Received READY
+2025-09-09 00:54:48 | [INFO]    | Discordia 2.13.0
+2025-09-09 00:54:48 | [INFO]    | Connecting to Discord...
+2025-09-09 00:54:49 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 00:54:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 00:54:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:54:49 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:54:50 | [INFO]    | Shard 0 : Received READY
+2025-09-09 00:55:18 | [INFO]    | Discordia 2.13.0
+2025-09-09 00:55:18 | [INFO]    | Connecting to Discord...
+2025-09-09 00:55:18 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 00:55:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 00:55:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:55:20 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:55:20 | [INFO]    | Shard 0 : Received READY
+2025-09-09 00:57:49 | [INFO]    | Discordia 2.13.0
+2025-09-09 00:57:49 | [INFO]    | Connecting to Discord...
+2025-09-09 00:57:49 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 00:57:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 00:57:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 00:57:50 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 00:57:50 | [INFO]    | Shard 0 : Received READY
+2025-09-09 17:48:53 | [INFO]    | Discordia 2.13.0
+2025-09-09 17:48:53 | [INFO]    | Connecting to Discord...
+2025-09-09 17:48:54 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 17:48:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 17:48:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 17:48:55 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 17:48:55 | [INFO]    | Shard 0 : Received READY
+2025-09-09 18:52:00 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-09 18:52:00 | [INFO]    | Shard 0 : Disconnected
+2025-09-09 18:52:00 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-09 18:52:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 18:52:00 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 18:52:00 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-09 19:29:00 | [INFO]    | Discordia 2.13.0
+2025-09-09 19:29:00 | [INFO]    | Connecting to Discord...
+2025-09-09 19:29:00 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 19:29:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 19:29:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 19:29:01 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 19:29:01 | [INFO]    | Shard 0 : Received READY
+2025-09-09 19:29:17 | [INFO]    | Discordia 2.13.0
+2025-09-09 19:29:17 | [INFO]    | Connecting to Discord...
+2025-09-09 19:29:17 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 19:29:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 19:29:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 19:29:17 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 19:29:18 | [INFO]    | Shard 0 : Received READY
+2025-09-09 19:30:35 | [INFO]    | Discordia 2.13.0
+2025-09-09 19:30:35 | [INFO]    | Connecting to Discord...
+2025-09-09 19:30:35 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 19:30:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 19:30:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 19:30:35 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 19:30:36 | [INFO]    | Shard 0 : Received READY
+2025-09-09 19:30:52 | [INFO]    | Discordia 2.13.0
+2025-09-09 19:30:52 | [INFO]    | Connecting to Discord...
+2025-09-09 19:30:52 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 19:30:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 19:30:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 19:30:52 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 19:30:53 | [INFO]    | Shard 0 : Received READY
+2025-09-09 19:34:00 | [INFO]    | Discordia 2.13.0
+2025-09-09 19:34:00 | [INFO]    | Connecting to Discord...
+2025-09-09 19:34:00 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 19:34:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 19:34:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 19:34:00 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 19:34:02 | [INFO]    | Shard 0 : Received READY
+2025-09-09 19:34:44 | [INFO]    | Discordia 2.13.0
+2025-09-09 19:34:44 | [INFO]    | Connecting to Discord...
+2025-09-09 19:34:45 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 19:34:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 19:34:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 19:34:45 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 19:34:45 | [INFO]    | Shard 0 : Received READY
+2025-09-09 19:40:10 | [INFO]    | Discordia 2.13.0
+2025-09-09 19:40:10 | [INFO]    | Connecting to Discord...
+2025-09-09 19:40:11 | [INFO]    | Authenticated as Scarlet Sage#8342
+2025-09-09 19:40:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-09 19:40:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 19:40:11 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 19:40:11 | [INFO]    | Shard 0 : Received READY
+2025-09-09 20:40:00 | [WARNING] | Shard 0 : 1001 - Connection closed
+2025-09-09 20:40:00 | [INFO]    | Shard 0 : Disconnected
+2025-09-09 20:40:00 | [INFO]    | Shard 0 : Reconnecting after 1082 ms...
+2025-09-09 20:40:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 20:40:01 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 20:40:01 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-09 22:08:57 | [INFO]    | Shard 0 : Disconnected
+2025-09-09 22:08:57 | [INFO]    | Shard 0 : Reconnecting after 952 ms...
+2025-09-09 22:08:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 22:08:58 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 22:08:58 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-09 22:14:04 | [INFO]    | Shard 0 : Disconnected
+2025-09-09 22:14:04 | [INFO]    | Shard 0 : Reconnecting after 955 ms...
+2025-09-09 22:14:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 22:14:05 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 22:14:06 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-09 23:30:01 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-09-09 23:30:01 | [INFO]    | Shard 0 : Disconnected
+2025-09-09 23:30:01 | [INFO]    | Shard 0 : Reconnecting...
+2025-09-09 23:30:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-09 23:30:02 | [INFO]    | Shard 0 : Received HELLO
+2025-09-09 23:30:02 | [INFO]    | Shard 0 : Received RESUMED
+2025-09-20 14:42:22 | [INFO]    | Discordia 2.13.0
+2025-09-20 14:42:22 | [INFO]    | Connecting to Discord...
+2025-09-20 14:42:22 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-09-20 14:42:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-20 14:42:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-20 14:42:23 | [INFO]    | Shard 0 : Received HELLO
+2025-09-20 14:42:23 | [INFO]    | Shard 0 : Received READY
+2025-09-20 14:43:57 | [INFO]    | Discordia 2.13.0
+2025-09-20 14:43:57 | [INFO]    | Connecting to Discord...
+2025-09-20 14:43:58 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-09-20 14:43:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-20 14:43:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-20 14:43:58 | [INFO]    | Shard 0 : Received HELLO
+2025-09-20 14:43:58 | [INFO]    | Shard 0 : Received READY
+2025-09-20 14:46:11 | [INFO]    | Discordia 2.13.0
+2025-09-20 14:46:11 | [INFO]    | Connecting to Discord...
+2025-09-20 14:46:11 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-09-20 14:46:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-20 14:46:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-20 14:46:11 | [INFO]    | Shard 0 : Received HELLO
+2025-09-20 14:46:11 | [INFO]    | Shard 0 : Received READY
+2025-09-20 14:46:41 | [INFO]    | Discordia 2.13.0
+2025-09-20 14:46:41 | [INFO]    | Connecting to Discord...
+2025-09-20 14:46:42 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-09-20 14:46:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-20 14:46:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-20 14:46:42 | [INFO]    | Shard 0 : Received HELLO
+2025-09-20 14:46:45 | [INFO]    | Shard 0 : Received READY
+2025-09-20 15:08:47 | [INFO]    | Discordia 2.13.0
+2025-09-20 15:08:47 | [INFO]    | Connecting to Discord...
+2025-09-20 15:08:48 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-09-20 15:08:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-20 15:08:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-20 15:08:48 | [INFO]    | Shard 0 : Received HELLO
+2025-09-20 15:08:48 | [INFO]    | Shard 0 : Received READY
+2025-09-20 15:10:01 | [INFO]    | Discordia 2.13.0
+2025-09-20 15:10:01 | [INFO]    | Connecting to Discord...
+2025-09-20 15:10:01 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-09-20 15:10:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-20 15:10:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-20 15:10:02 | [INFO]    | Shard 0 : Received HELLO
+2025-09-20 15:10:02 | [INFO]    | Shard 0 : Received READY
+2025-09-20 15:10:24 | [INFO]    | Discordia 2.13.0
+2025-09-20 15:10:24 | [INFO]    | Connecting to Discord...
+2025-09-20 15:10:24 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-09-20 15:10:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-20 15:10:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-20 15:10:24 | [INFO]    | Shard 0 : Received HELLO
+2025-09-20 15:10:25 | [INFO]    | Shard 0 : Received READY
+2025-09-20 15:12:58 | [INFO]    | Discordia 2.13.0
+2025-09-20 15:12:58 | [INFO]    | Connecting to Discord...
+2025-09-20 15:12:58 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-09-20 15:12:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-20 15:12:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-20 15:12:58 | [INFO]    | Shard 0 : Received HELLO
+2025-09-20 15:12:59 | [INFO]    | Shard 0 : Received READY
+2025-09-20 16:34:14 | [INFO]    | Discordia 2.13.0
+2025-09-20 16:34:14 | [INFO]    | Connecting to Discord...
+2025-09-20 16:34:15 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-09-20 16:34:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-09-20 16:34:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-09-20 16:34:16 | [INFO]    | Shard 0 : Received HELLO
+2025-09-20 16:34:16 | [INFO]    | Shard 0 : Received READY
+2025-10-17 23:38:51 | [INFO]    | Discordia 2.13.0
+2025-10-17 23:38:51 | [INFO]    | Connecting to Discord...
+2025-10-17 23:38:52 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-17 23:38:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-17 23:38:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-17 23:38:52 | [INFO]    | Shard 0 : Received HELLO
+2025-10-17 23:38:53 | [INFO]    | Shard 0 : Received READY
+2025-10-17 23:48:37 | [INFO]    | Discordia 2.13.0
+2025-10-17 23:48:37 | [INFO]    | Connecting to Discord...
+2025-10-17 23:48:37 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-17 23:48:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-17 23:48:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-17 23:48:37 | [INFO]    | Shard 0 : Received HELLO
+2025-10-17 23:48:38 | [INFO]    | Shard 0 : Received READY
+2025-10-17 23:49:22 | [INFO]    | Discordia 2.13.0
+2025-10-17 23:49:22 | [INFO]    | Connecting to Discord...
+2025-10-17 23:49:22 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-17 23:49:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-17 23:49:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-17 23:49:22 | [INFO]    | Shard 0 : Received HELLO
+2025-10-17 23:49:22 | [INFO]    | Shard 0 : Received READY
+2025-10-17 23:50:45 | [INFO]    | Discordia 2.13.0
+2025-10-17 23:50:45 | [INFO]    | Connecting to Discord...
+2025-10-17 23:50:46 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-17 23:50:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-17 23:50:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-17 23:50:46 | [INFO]    | Shard 0 : Received HELLO
+2025-10-17 23:50:46 | [INFO]    | Shard 0 : Received READY
+2025-10-18 00:02:11 | [INFO]    | Discordia 2.13.0
+2025-10-18 00:02:11 | [INFO]    | Connecting to Discord...
+2025-10-18 00:02:12 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-18 00:02:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-18 00:02:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 00:02:12 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 00:02:12 | [INFO]    | Shard 0 : Received READY
+2025-10-18 00:02:47 | [INFO]    | Discordia 2.13.0
+2025-10-18 00:02:47 | [INFO]    | Connecting to Discord...
+2025-10-18 00:02:48 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-18 00:02:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-18 00:02:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 00:02:48 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 00:02:49 | [INFO]    | Shard 0 : Received READY
+2025-10-18 00:09:34 | [INFO]    | Discordia 2.13.0
+2025-10-18 00:09:34 | [INFO]    | Connecting to Discord...
+2025-10-18 00:09:35 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-18 00:09:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-18 00:09:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 00:09:35 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 00:09:35 | [INFO]    | Shard 0 : Received READY
+2025-10-18 00:49:37 | [INFO]    | Discordia 2.13.0
+2025-10-18 00:49:37 | [INFO]    | Connecting to Discord...
+2025-10-18 00:49:37 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-18 00:49:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-18 00:49:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 00:49:38 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 00:49:38 | [INFO]    | Shard 0 : Received READY
+2025-10-18 00:51:58 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1414690593044566078/messages
+2025-10-18 00:52:12 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1414690593044566078/messages
+2025-10-18 00:54:35 | [INFO]    | Discordia 2.13.0
+2025-10-18 00:54:35 | [INFO]    | Connecting to Discord...
+2025-10-18 00:54:35 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-18 00:54:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-18 00:54:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 00:54:35 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 00:54:36 | [INFO]    | Shard 0 : Received READY
+2025-10-18 00:56:53 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1414690593044566078/messages
+2025-10-18 00:58:56 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1414690593044566078/messages
+2025-10-18 01:00:09 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1414690593044566078/messages
+2025-10-18 01:01:59 | [INFO]    | Discordia 2.13.0
+2025-10-18 01:01:59 | [INFO]    | Connecting to Discord...
+2025-10-18 01:02:00 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-18 01:02:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-18 01:02:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 01:02:00 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 01:02:00 | [INFO]    | Shard 0 : Received READY
+2025-10-18 12:33:30 | [INFO]    | Discordia 2.13.0
+2025-10-18 12:33:30 | [INFO]    | Connecting to Discord...
+2025-10-18 12:33:31 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-18 12:33:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-18 12:33:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 12:33:32 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 12:33:32 | [INFO]    | Shard 0 : Received READY
+2025-10-18 13:42:43 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2025-10-18 13:42:43 | [INFO]    | Shard 0 : Disconnected
+2025-10-18 13:42:43 | [INFO]    | Shard 0 : Reconnecting...
+2025-10-18 13:42:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 13:42:46 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 13:42:46 | [INFO]    | Shard 0 : Received RESUMED
+2025-10-18 13:52:43 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1414690593044566078/messages
+2025-10-18 13:53:04 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1414690593044566078/messages
+2025-10-18 13:58:06 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1414690593044566078/messages
+2025-10-18 13:58:17 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/1414690593044566078/messages
+2025-10-18 14:00:26 | [INFO]    | Discordia 2.13.0
+2025-10-18 14:00:26 | [INFO]    | Connecting to Discord...
+2025-10-18 14:00:26 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-18 14:00:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-18 14:00:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 14:00:27 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 14:00:28 | [INFO]    | Shard 0 : Received READY
+2025-10-18 15:38:27 | [INFO]    | Discordia 2.13.0
+2025-10-18 15:38:27 | [INFO]    | Connecting to Discord...
+2025-10-18 15:38:27 | [INFO]    | Authenticated as Scarlet Sage Preview#8342
+2025-10-18 15:38:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-18 15:38:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 15:38:28 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 15:38:30 | [INFO]    | Shard 0 : Received READY
+2025-10-18 16:09:46 | [INFO]    | Discordia 2.13.0
+2025-10-18 16:09:46 | [INFO]    | Connecting to Discord...
+2025-10-18 16:09:46 | [INFO]    | Authenticated as betacat#8342
+2025-10-18 16:09:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-10-18 16:09:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-10-18 16:09:47 | [INFO]    | Shard 0 : Received HELLO
+2025-10-18 16:09:47 | [INFO]    | Shard 0 : Received READY
