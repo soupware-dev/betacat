@@ -1,2 +1,2 @@
-# betacat
-Public-domain Discord bot
+# pianocat
+**Pianocat** (internal name: **Betacat**) is a public-domain Discord bot.
